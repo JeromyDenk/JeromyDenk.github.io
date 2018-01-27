@@ -16,7 +16,7 @@ description              : "The website of Jeromy Denk"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeromy Denk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/00100dPORTRAIT_00100_BURST20180121162909099_COVER.jpg"
   bio              : "I am a third year engineering student at the University of Ottawa."
   location         : "Ottawa, Ontario"
   email            : "jeromydenk@gmail.com"
