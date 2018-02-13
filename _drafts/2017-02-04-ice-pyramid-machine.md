@@ -14,7 +14,7 @@ Every year at the University of Ottawa, students enrolled in MCG2101 - Introduct
 - a portable machine that autonomously builds pyramidal lodgings made of ice blocks
 
 ##Restrictions
-Among some of the restrictions detailed in the [full project report]() 
+Among some of the restrictions detailed in the [full project report](/assets/docs/MCG2101-Final-Project-Report.pdf) 
 
 
 It should also be noted that 
