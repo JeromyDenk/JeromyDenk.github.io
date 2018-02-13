@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Ice Pyramid Building Machine - Second Year Design Project
-date:   2017-02-04 
+layout:     single
+title:      Ice Pyramid Building Machine - Second Year Design Project
+date:       2017-02-04 
 categories: projects
 ---
 - header image

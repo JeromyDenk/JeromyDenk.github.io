@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Self-Leveling Glider - Control I Project
-date:   2017-11-01-
+layout:     single
+title:      Self-Leveling Glider - Control I Project
+date:       2017-11-01-
 categories: projects
 ---
 
