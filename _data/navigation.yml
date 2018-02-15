@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: /pages/about/
 
+  - title: "Resume"
+    url: /pages/resume/
+    
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "About"
