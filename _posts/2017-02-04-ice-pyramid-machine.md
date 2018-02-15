@@ -6,7 +6,7 @@ title:      Ice Pyramid Building Machine - Second Year Design Project
 date:       2017-02-04 
 categories: projects
 header:
-  image: http://via.placeholder.com/1280x450
+  image: http://via.placeholder.com/1280x350
 ---
 - header image (1280w x )
 
