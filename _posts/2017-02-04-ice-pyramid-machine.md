@@ -6,7 +6,7 @@ title:      Ice Pyramid Building Machine - Second Year Design Project
 date:       2017-02-04 
 categories: projects
 header:
-  image: http://via.placeholder.com/1280x400
+  image: /assets/images/icepyramidmachine/PyrapideBanner.jpg
 ---
 
 
@@ -15,9 +15,7 @@ Every year at the University of Ottawa, students enrolled in MCG2101 - Introduct
 - a vertical belt-driven rock-climbing machine
 - a portable machine that autonomously builds pyramid-shaped lodgings made of ice blocks
 
-My teammates and I decided on the latter option. This is what we came up with:
-
-(Image)
+My teammates and I decided on the latter option.
 
 # Design Criteria & Restrictions
 As part of the mandate, a number of restrictions and design criteria were placed on the design of the machine. Among some of them, which are detailed in the [full project report](/assets/docs/MCG2101-Final-Project-Report.pdf) are as follows:
@@ -36,7 +34,7 @@ In order to simplify the design-process for second-year students, the project al
 ## The Ice Pyramid
 The lodging constructed by the machine must consist of a hollow square-based pyramid with a 10 x 10 block base. It is made of 181 ice blocks each measuring 60cm x 60cm x 30cm (L x W x H). The door to the lodge is to be cut into the side of the pyramid after it is built and thus doesn't need to be accounted for.
 
-(PICTURE OF ICE PYRAMID)
+/assets/images/icepyramidmachine/Pyramid.jpg
 
 # Solution
 
