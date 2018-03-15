@@ -5,6 +5,7 @@ classes:
 title:      Ice Pyramid Building Machine - Second Year Design Project
 date:       2017-02-04 
 categories: projects
+cover-photo: "/assets/images/icepyramidmachine/Ice Pyramid Project New 1.3"
 header:
   image: /assets/images/icepyramidmachine/PyrapideBanner.jpg
 ---
@@ -34,8 +35,7 @@ In order to simplify the design-process for second-year students, the project al
 ## The Ice Pyramid
 The lodging constructed by the machine must consist of a hollow square-based pyramid with a 10 x 10 block base. It is made of 181 ice blocks each measuring 60cm x 60cm x 30cm (L x W x H). The door to the lodge is to be cut into the side of the pyramid after it is built and thus doesn't need to be accounted for.
 
-![alt text](/assets/images/icepyramidmachine/Pyramid.jpg "Ice Pyramid")
-
+![Ice Pyramid with Dimensions](/assets/images/icepyramidmachine/Pyramid.JPG){:class="image featured"}
 
 # Solution
 
