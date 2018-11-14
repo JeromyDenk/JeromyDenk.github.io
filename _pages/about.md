@@ -4,6 +4,6 @@ classes:
     - wide
 title:      About Me
 date:       2017-02-04 
-permalink:  /pages/about/
+permalink:  /about/
 ---
 gfsdfg
