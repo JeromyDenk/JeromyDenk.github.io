@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Jeromy Denk"
 title_separator          : "-"
 name                     : "Jeromy Denk"
 description              : "The website of Jeromy Denk"
